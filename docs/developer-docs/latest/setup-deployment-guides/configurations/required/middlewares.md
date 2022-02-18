@@ -8,7 +8,7 @@ canonicalUrl: https://docs.strapi.io/developer-docs/latest/setup-deployment-guid
 
 ::: strapi Different types of middlewares
 
-In Strapi, 2 middleware concepts coexist:
+In Strapi, two middleware concepts coexist:
 
 - **Strapi middlewares** are configured and enabled as global middlewares for the entire Strapi server application. The present documentation describes how to configure Strapi middlewares.<br/>Strapi also offers the ability to implement your own custom middlewares (see [middlewares customization documentation](/developer-docs/latest/development/backend-customization/middlewares.md)).
 
